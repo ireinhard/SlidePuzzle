@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.SeekBar;
 
 /**
- * Main activity that controls app running in portrait mode.
+ * Main activity that controls app running in portrait mode on pixel C.
  * Name: Isaac Reinhard
  * Date: 10/3/21
  * Additional functionality:
