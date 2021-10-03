@@ -33,7 +33,6 @@ public class PuzzleModel {
                 count++;
             }
         }
-        /**
         //then randomize game board
         for(int i = boardSize - 1; i > 0; i--){
             for(int j = boardSize - 1; j > 0; j--){
@@ -44,7 +43,6 @@ public class PuzzleModel {
                 board[m][n].setTileNum(temp);
             }
         }
-        */
         //checks if staring layout is a winning layout...very small odds
         checkWin();
     }
