@@ -6,6 +6,16 @@ import android.os.Bundle;
 import android.widget.Button;
 import android.widget.SeekBar;
 
+/**
+ * Main activity that controls app running in portrait mode.
+ * Name: Isaac Reinhard
+ * Date: 10/3/21
+ * Additional functionality:
+ * -allows user to drag tiles
+ * -allows user to change size of game board
+ * Note: Copied over from my PuzzleApp repository as I had difficulties with displaying
+ * on surface view
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
