@@ -1,0 +1,3 @@
+Note this project is taken from my PuzzleApp repository. I was having
+difficulties with the surface view on that project so that is why I made
+a new project.
